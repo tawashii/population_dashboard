@@ -94,14 +94,6 @@ japan-population-dashboard/
 
 すべてのグラフでマウスオーバー、ズーム、パンなどのインタラクティブ操作が可能です。
 
-## 🔮 今後の拡張予定
-
-- [ ] 出生率・死亡率データの追加
-- [ ] 地図による可視化機能
-- [ ] 予測モデルの実装
-- [ ] 外国人人口データの統合
-- [ ] Web API化
-
 ## 🤝 コントリビューション
 
 プルリクエストやイシューの報告を歓迎します！
@@ -112,16 +104,11 @@ japan-population-dashboard/
 4. ブランチにプッシュ (`git push origin feature/AmazingFeature`)
 5. プルリクエストを作成
 
-## 📄 ライセンス
-
-このプロジェクトはMITライセンスの下で公開されています。詳細は[LICENSE](LICENSE)ファイルをご覧ください。
-
 ## 👨‍💻 作成者
 
 **あなたの名前**
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-- 🐦 X (Twitter): [@yourtwitter](https://twitter.com/yourtwitter)
-- 📧 Email: your.email@example.com
+- 🐙 GitHub: [@ytawashii](https://github.com/tawashii)
+- 🐦 X (Twitter): [@tawashii_](https://x.com/tawashii_)
 
 ## 📚 参考資料
 
