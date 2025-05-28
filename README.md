@@ -73,8 +73,7 @@ japan-population-dashboard/
 ├── data/                    # 生成されるデータフォルダ
 │   ├── real_population_data.csv
 │   └── age_composition_data.csv
-├── README.md
-└── LICENSE
+└── README.md
 ```
 
 ## 📊 分析結果のハイライト
@@ -106,9 +105,9 @@ japan-population-dashboard/
 
 ## 👨‍💻 作成者
 
-**あなたの名前**
-- 🐙 GitHub: [@ytawashii](https://github.com/tawashii)
-- 🐦 X (Twitter): [@tawashii_](https://x.com/tawashii_)
+**tawashii**
+-  GitHub: [@tawashii](https://github.com/tawashii)
+-  X (Twitter): [@tawashii_](https://x.com/tawashii_)
 
 ## 📚 参考資料
 
